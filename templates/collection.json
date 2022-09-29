@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {}
+    },
+    "collection-image": {
+      "type": "collection-image",
+      "settings": {
+        "stars_text": "{{ collection.metafields.theme.collection_banner.value }}",
+        "collection_stars": "shopify:\/\/shop_images\/tp_nl_f63ea681-ab60-4574-aca8-f56cafb8f129.jpg",
+        "stars_url": "https:\/\/www.trustpilot.com\/"
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "collection_tags_enable": false,
+        "collection_tags_count": false,
+        "collection_multiple_tags_filtering_enable": false,
+        "collection_sort_enable": false,
+        "tag_selector": "button",
+        "collection_layout": "grid",
+        "rows": "4",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "collection_giff_enable": true,
+        "collection_banner": "shopify:\/\/shop_images\/collectionbanner_264x360_7b4a0d98-d262-486f-b229-9d704eefc97a.gif",
+        "collection_banner_gif_link": "",
+        "collection_banner_font_family": "poppins_n4",
+        "collection_banner_title": "speciale aanbieding",
+        "collection_banner_button_label": "Shop now",
+        "collection_banner_button_link": "shopify:\/\/collections\/all",
+        "collection_enable_porcent_tag": false
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "collection-image",
+    "main"
+  ]
+}
