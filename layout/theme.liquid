@@ -185,16 +185,20 @@
     {% render 'review-head' %}
   
     {{ "fancybox.min.css" | asset_url | stylesheet_tag }}  
+    
+<!-- Start of Tidio script -->
+<script src="//code.tidio.co/vpzcrknf873i0cg3y6bbggk1sbo4bsmz.js" async></script> 
+<!-- End of Tidio script -->
 
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FZFPWTXDWN"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-FZFPWTXDWN');
-  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MXQPWM67RQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-MXQPWM67RQ');
+</script>
   <!-- Start of TIDIO script !-->
   <!-- <script src="//code.tidio.co/lshxvbf7zbpxfdntolmjiikgc1kvutyf.js" async></script> -->
   <!-- End of TIDIO script !-->
@@ -218,11 +222,7 @@
   {% endfor %}
   <!-- magic scrips end  -->
 
-  <!-- onskeskyen-wish-button link start  -->
-   <script src='https://tag.heylink.com/a0b98809-b311-42c0-bd60-4be624b02060/script.js' defer></script>
-      <script type="application/javascript" src="https://xn--nskeskyen-k8a.dk/onskeskyen-wish-button/external-wish-button.js" id="ov-onskeskyen-generate-wish-button-script" defer></script>
-      <link rel="stylesheet" href="https://oenskeinspiration.dk/knap/css/onskeskyen_wish_button.min.css">
-    <!-- onskeskyen-wish-button link end  -->
+  
 </head>
   <body id="{{ page_title | handle }}"
         class="{% if settings.sticky_header %}sticky-header{% endif %}

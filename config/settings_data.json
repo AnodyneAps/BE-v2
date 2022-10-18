@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/alle-produkte",
     "zindex_drawer": "999",
     "cart_message_enable": false,
-    "textbox_cart_notification": "<strong>Din garanti:<\/strong> Hos Anodyne® har du altid 30 dages fuld returret og 100% gratis ombytning.",
+    "textbox_cart_notification": "<strong>Uw garantie:<\/strong> bij Anodyne® heeft u altijd een 30 dagen volledig retourbeleid en 100% gratis omruiling.",
     "textbox_custom_drawer_icon": "",
     "cart_notes_enable": false,
     "color_announcement_bg": "#353535",
@@ -116,7 +116,7 @@
     "dbtfy_recently_viewed": false,
     "dbtfy_size_chart": false,
     "dbtfy_agree_to_terms": true,
-    "agree_to_terms_text": "<p>Jeg accepterer <a href=\"https:\/\/www.anodyne.dk\/policies\/terms-of-service\" title=\"https:\/\/www.anodyne.dk\/policies\/terms-of-service\">handelsbetingelserne<\/a><\/p>",
+    "agree_to_terms_text": "<p>Ik ga akkoord met Anodyne® <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">Algemene Voorwaarden<\/a> en het Anodyne® <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacybeleid<\/a><\/p>",
     "dbtfy_cookie_box": false,
     "dbtfy_shop_protect": false,
     "dbtfy_addtocart_animation_type": "shakeX",
@@ -136,7 +136,7 @@
     "dbtfy_social_discount_reward_amount": "10",
     "dbtfy_trust_badge_cart": false,
     "dbtfy_trust_badge_text_small": true,
-    "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/dk_betaling.png",
+    "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/be_betaling.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
     "checkout_accent_color": "#398e82",
     "checkout_button_color": "#398e82",
@@ -693,7 +693,7 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p>Gebruik de kortingscode: <strong>SEPT25<\/strong><\/p>"
+              "announcement_text": "<p>Gebruik de kortingscode: <strong>OKTOBER25<\/strong><\/p>"
             }
           },
           "ed921cc9-429d-455b-86d4-1b6382ef61e7": {
@@ -717,8 +717,8 @@
           "show_social": false,
           "email": true,
           "phone": true,
-          "left_message": "<p>Vi forbedrer din kropsholdning<\/p>",
-          "right_message": "<p><a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"Kontakt\">Kontakt<\/a><\/p>",
+          "left_message": "<p>Verbeter je houding<\/p>",
+          "right_message": "<p><a href=\"\/pages\/contact\" title=\"Contact\">Contact<\/a><\/p>",
           "announcement_autoplayspeed": 5
         }
       },
@@ -758,10 +758,10 @@
             "type": "text",
             "settings": {
               "title": "",
-              "image": "shopify:\/\/shop_images\/Returns_200px.png",
+              "image": "shopify:\/\/shop_images\/Returns.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Gratis ombytning<\/p>",
+              "text": "<p>Gratis retourneren en ruilen<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -773,10 +773,10 @@
             "type": "text",
             "settings": {
               "title": "",
-              "image": "shopify:\/\/shop_images\/Truck_200px.png",
+              "image": "shopify:\/\/shop_images\/Truck.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Mulighed for gratis levering til pakkeshop<\/p>",
+              "text": "<p>Gratis verzending voor aankopen boven €59,00<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -788,10 +788,10 @@
             "type": "text",
             "settings": {
               "title": "",
-              "image": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "image": "shopify:\/\/shop_images\/Smile2.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Prøv frit i 30 dage<\/p>",
+              "text": "<p>30 dagen volledig retourrecht<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -803,10 +803,10 @@
             "type": "text",
             "settings": {
               "title": "",
-              "image": "shopify:\/\/shop_images\/e-maerket.png",
+              "image": "shopify:\/\/shop_images\/Customerservice_copy.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Vi er en <a href=\"https:\/\/certifikat.emaerket.dk\/anodyne.dk\" target=\"_blank\" title=\"https:\/\/certifikat.emaerket.dk\/anodyne.dk\">E-mærket<\/a> webshop<\/p>",
+              "text": "<p>Neem contact met ons op<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -835,9 +835,9 @@
             "settings": {
               "title": "Kategorier",
               "column_width": 1,
-              "heading_text": "Kategorier",
+              "heading_text": "Categorieën",
               "subtitle": "",
-              "footer_link_list": ""
+              "footer_link_list": "footer-categories"
             }
           },
           "0bf661af-2d67-4ed7-9f1e-750e2c09c74e": {
@@ -847,7 +847,7 @@
               "column_width": 1,
               "heading_text": "Anodyne®",
               "subtitle": "",
-              "footer_link_list": ""
+              "footer_link_list": "footer-policies"
             }
           },
           "045bae48-bfff-4e04-a080-14a99dbf2e0c": {
@@ -858,9 +858,9 @@
               "svg": "",
               "img_url": "",
               "logo_width": 150,
-              "heading_text": "Kontakt os",
+              "heading_text": "Contact",
               "subtitle": "",
-              "text": "<p>Anodyne.dk<\/p><p><strong>Man - tors<\/strong>: 10:00 - 16:00<br\/><strong>Fre:<\/strong> 10:00 - 15:00<\/p>",
+              "text": "<p>Anodyne.nl<\/p><p><strong>Ma. - do.:<\/strong> 10:00 - 16:00<br\/><strong>Vrijdag:<\/strong> 10:00 - 15:00<\/p>",
               "email": true,
               "phone": true,
               "show_social_media": false
@@ -890,11 +890,11 @@
           "show_social_media": false,
           "social_media_position_desktop": "center",
           "social_title": "Follow-us on social media!",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N - CVR: 37167053 <em>(NB: Intet salg på adressen)<\/em><\/p>",
-          "product_counter_text": "Vi sender din ordre om",
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Denemarken - BTW nummer: BE0669621781<\/p>",
+          "product_counter_text": "We sturen uw bestelling in",
           "show_product_counter": true
         }
       },
@@ -1173,10 +1173,10 @@
       "dbtfy-cart-goal": {
         "type": "dbtfy-cart-goal",
         "settings": {
-          "dbtfy_cart_goal_before_text": "Endnu",
-          "dbtfy_cart_goal_amount": "399",
-          "dbtfy_cart_goal_after_text": "til gratis forsendelse.",
-          "dbtfy_cart_goal_reached_text": "Gratis levering til pakkeshop",
+          "dbtfy_cart_goal_before_text": "Nog",
+          "dbtfy_cart_goal_amount": "59",
+          "dbtfy_cart_goal_after_text": "te gaan tot GRATIS verzending!",
+          "dbtfy_cart_goal_reached_text": "Gratis verzending!",
           "dbtfy_cart_goal_icons": "local_shipping"
         }
       },

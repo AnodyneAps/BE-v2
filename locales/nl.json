@@ -527,6 +527,17 @@
       "next": "Volgende (pijl naar rechts)",
       "prev": "Vorige (pijl naar links)",
       "close": "Sluiten (Esc)"
+    },
+    "tabs": {
+      "tab-description": "BESCHRIJVING",
+      "tab-medical": "MEDISCH GEREGISTREERD",
+      "tab-use": "GEBRUIK",
+      "tab-manual": "",
+      "tab-material": "",
+      "tab-delivery": "LEVERING & RETOURNEREN"
+    },
+    "sizes": {
+      "choose-size-message": ""
     }
   },
   "gift_cards": {

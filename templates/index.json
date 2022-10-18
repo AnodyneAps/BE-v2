@@ -32,7 +32,7 @@
             "title": "Snelle levering",
             "description": "Gratis verzending voor aankopen boven €59,00",
             "icon": "shopify:\/\/shop_images\/Truck.png",
-            "uspLinkUrl": "shopify:\/\/pages\/retourportaal"
+            "uspLinkUrl": "shopify:\/\/pages\/verzending-en-levering"
           }
         },
         "1656942069c276e07d-1": {
@@ -41,7 +41,7 @@
             "title": "Gratis retourneren en ruilen",
             "description": "Wij zorgen voor een retourlabel",
             "icon": "shopify:\/\/shop_images\/Returns.png",
-            "uspLinkUrl": "shopify:\/\/pages\/returportal"
+            "uspLinkUrl": "shopify:\/\/pages\/ruil-en-retourportall"
           }
         },
         "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
@@ -50,7 +50,7 @@
             "title": "100% Tevredenheidsgarantie",
             "description": "100% tevreden of je volledige aankoopbedrag terug",
             "icon": "shopify:\/\/shop_images\/Smile2.png",
-            "uspLinkUrl": "shopify:\/\/pages\/retourportaal"
+            "uspLinkUrl": "shopify:\/\/pages\/over-ons"
           }
         },
         "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
@@ -59,7 +59,7 @@
             "title": "30 dagen volledig retourrecht",
             "description": "Genoeg tijd om een beslissing te maken",
             "icon": "shopify:\/\/shop_images\/Checkmark.png",
-            "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            "uspLinkUrl": "shopify:\/\/pages\/onze-visie"
           }
         }
       },
@@ -133,17 +133,17 @@
             "code": "<p>Al 7 jaar streven wij ernaar toegang te verschaffen tot gemakkelijke en effectieve <a href=\"https:\/\/www.anodyne.be\/collections\/alle-producten\"><span style=\"text-decoration:underline\">producten voor houdingscorrectie<\/span><\/a>, <a href=\"https:\/\/www.anodyne.be\/collections\/rugsteun\"><span style=\"text-decoration:underline\">rugsteun<\/span><\/a> en pijnverlichting. Onze belangrijkste filosofie is dat we geen producten verkopen die we zelf niet zouden gebruiken. Sinds 2014 hebben we meer dan 300.000 tevreden klanten in Europa en we zijn van plan om er in de toekomst nog veel meer te hebben.<\/p>",
             "text_alignment": "text-center",
             "status1_number": "+100.000",
-            "status1_label": "Glade danske kunder",
+            "status1_label": "Tevreden klanten",
             "status1_link": "shopify:\/\/collections\/all",
             "status2_number": "+500.000",
-            "status2_label": "Solgte produkter verden over",
+            "status2_label": "Producten wereldwijd verkocht",
             "status2_link": "shopify:\/\/collections\/all",
             "status3_number": "+8",
-            "status3_label": "Års erfaring",
+            "status3_label": "Jaar ervaring",
             "status3_link": "shopify:\/\/collections\/all",
             "status4_number": "+80",
-            "status4_label": "Tilgængelige produkter",
-            "status4_link": "shopify:\/\/collections\/all",
+            "status4_label": "Producten beschikbaar",
+            "status4_link": "shopify:\/\/collections\/alle-producten",
             "vendor_image_position": "center center",
             "vendor_text": ""
           }
@@ -235,9 +235,9 @@
         "desktop_grid": "4",
         "mobile_grid": "2",
         "show_view_all": true,
-        "button_label": "Se alle produkter",
+        "button_label": "Bekijk alle",
         "button_link": "shopify:\/\/collections\/alle-produkter",
-        "button_style": "btn--primary",
+        "button_style": "",
         "slider_related_products": true,
         "arrows": true,
         "dots": true,
