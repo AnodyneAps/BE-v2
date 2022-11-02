@@ -613,7 +613,8 @@
       },
       "dbtfy-color-swatches": {
         "type": "dbtfy-color-swatches",
-        "settings": {}
+        "settings": {
+        }
       },
       "dbtfy-bullet-points": {
         "type": "dbtfy-bullet-points",
@@ -860,7 +861,7 @@
               "logo_width": 150,
               "heading_text": "Contact",
               "subtitle": "",
-              "text": "<p>Anodyne.nl<\/p><p><strong>Ma. - do.:<\/strong> 10:00 - 16:00<br\/><strong>Vrijdag:<\/strong> 10:00 - 15:00<\/p>",
+              "text": "<p>Anodyne.be<\/p><p><strong>Ma. - do.:<\/strong> 10:00 - 16:00<br\/><strong>Vrijdag:<\/strong> 10:00 - 15:00<\/p>",
               "email": true,
               "phone": true,
               "show_social_media": false
@@ -1182,7 +1183,8 @@
       },
       "dbtfy-customizable-products": {
         "type": "dbtfy-customizable-products",
-        "settings": {}
+        "settings": {
+        }
       },
       "dbtfy-product-tabs": {
         "type": "dbtfy-product-tabs",

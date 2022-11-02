@@ -1,0 +1,224 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "fce41e98-ae27-42a6-9a42-d7348dd384c6": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Artboard_2.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 500,
+        "image_title": "<p><strong>Goede houding<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "78e5b6f3-faa7-4060-8459-3c94a084db9a": {
+      "type": "mission",
+      "blocks": {
+        "template--15854461780118__78e5b6f3-faa7-4060-8459-3c94a084db9a-1666089725e4cb3d20-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h2>Voordelen van een goede houding<\/h2><p>Velen van ons weten dat een goede houding belangrijk is, of we nu zitten, staan of bewegen. Maar waarom? Er zijn verschillende redenen waarom het belangrijk is om aan uw houding te denken. We hebben 6 verschillende fysieke en mentale voordelen op een rijtje gezet door het hebben van een goede houding.<\/p><br>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15854461780118__78e5b6f3-faa7-4060-8459-3c94a084db9a-1666089725e4cb3d20-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-default",
+        "wrapper_size": ""
+      }
+    },
+    "4cf8fd56-7736-4fed-8556-11c29046f566": {
+      "type": "custom-html",
+      "blocks": {
+        "template--15854461780118__4cf8fd56-7736-4fed-8556-11c29046f566-1666089725c17e6735-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:30px;padding-right:30px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\">\n<h2>Verlicht pijn<\/h2>\n<p>Een gezonde houding kan pijn en spanning verminderen in uw rug, schouders en nek.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "ef8c52e1-b85f-4778-85de-9c20c47253f7": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:30px;padding-right:30px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\">\n<h2>Voorkomt blessuresn<\/h2>\n<p>Het helpt blessures en problemen te voorkomen in de toekomst.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "832e5551-ef00-4170-87eb-e8d406a75cff": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:30px;padding-right:30px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\">\n<h2>Ontlast het lichaam<\/h2>\n<p>Ontspant gespannen spiergroepen en verlicht de spanning in de schouders, nek en onderrug.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "cbbbb099-21b1-4c30-8281-2ebb72bf3ecf": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:30px;padding-right:30px\">\n<img src=\"https:\/\/i.ibb.co\/bLg6Mnn\/Smile.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Verbetert het humeur<\/h2>\n<p>Een gezonde lichaamshouding draagt bij tot een beter humeur en meer energie in het dagelijkse leven.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "9dc5ee23-43ef-497b-826f-653078ad2cc3": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:30px;padding-right:30px\">\n<img src=\"https:\/\/i.ibb.co\/KV56kZB\/Radiance.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Verbetert uiterlijk<\/h2>\n<p>Een goede lichaamshouding verbetert ons uiterlijk en laat een goede indruk achter.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "672564c3-78aa-4728-9d42-4fb87ec5ebda": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:30px;padding-right:30px\">\n<img src=\"https:\/\/i.ibb.co\/BsTXCGL\/Confidence.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Vergroot het zelfvertrouwen<\/h2>\n<p>Een gezonde lichaamshouding geeft ons meer zelfvertrouwen.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15854461780118__4cf8fd56-7736-4fed-8556-11c29046f566-1666089725c17e6735-0",
+        "ef8c52e1-b85f-4778-85de-9c20c47253f7",
+        "832e5551-ef00-4170-87eb-e8d406a75cff",
+        "cbbbb099-21b1-4c30-8281-2ebb72bf3ecf",
+        "9dc5ee23-43ef-497b-826f-653078ad2cc3",
+        "672564c3-78aa-4728-9d42-4fb87ec5ebda"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "acb13734-92f3-45a7-a702-7214c62e6df9": {
+      "type": "featured-columns",
+      "blocks": {
+        "template--15854461780118__acb13734-92f3-45a7-a702-7214c62e6df9-16660897736fdd0373-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Traening.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Oefeningen en krachttraining",
+            "text": "<p>Gespannen en zwakke spieren zijn vaak de oorzaak van een slechte houding, omdat ze niet in staat zijn het bovenlichaam op zijn plaats te houden.<br\/>Daarom zijn rek- en strekoefeningen en krachttraining een goede manier om de houding te verbeteren. Als u enkele eenvoudige dagelijkse oefeningen nodig hebt, hebben we recent een video gemaakt met effectieve oefeningen in samenwerking met chiropractor Michael Justad.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "Bekijk video",
+            "button_link": "shopify:\/\/pages\/ontspanningsoefeningen"
+          }
+        },
+        "template--15854461780118__acb13734-92f3-45a7-a702-7214c62e6df9-16660897736fdd0373-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mand_i_sofa_med_skulderstotte_720x480_354275a8-9156-450e-a407-00cc835d55cd.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Houding corrigerende kleding",
+            "text": "<p>Veel mensen vinden het moeilijk om in het dagelijks leven aan een goede houding te denken, waardoor houding corrigerende kleding een zeer populaire oplossing is geworden. Ons best verkochte product is ons Posture Shirt™ dat u er met een lichte trek aan de schouders er aan herinnert om recht te gaan zitten wanneer uw schouders beginnen te hangen. De flexibiliteit van het Posture Shirt maakt het effectief en comfortabel om te dragen - zowel zittend als wanneer u actief bezig bent.<\/p>",
+            "button_style": "",
+            "button_label": "Bekijk aanbod",
+            "button_link": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "template--15854461780118__acb13734-92f3-45a7-a702-7214c62e6df9-16660897736fdd0373-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Image_woman_and_man_0003_720x480_a271efa6-5584-4321-820e-e66200f312bf.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Andere houding corrigerende producten",
+            "text": "<p>Naast ons Posture Shirt™ verkopen wij ook een reeks andere houdingscorrigerende producten, zoals houding correctors, rugbraes en rugkussens. Deze producten zijn vooral geschikt voor gebruik in zittende en staande situaties waar de lichaamsbeweging beperkt is - bijvoorbeeld zittend aan een bureau, in de bank of tijdens het koken. <\/p>",
+            "button_style": "",
+            "button_label": "Bekijk aanbod",
+            "button_link": "shopify:\/\/collections\/rugsteun"
+          }
+        }
+      },
+      "block_order": [
+        "template--15854461780118__acb13734-92f3-45a7-a702-7214c62e6df9-16660897736fdd0373-0",
+        "template--15854461780118__acb13734-92f3-45a7-a702-7214c62e6df9-16660897736fdd0373-1",
+        "template--15854461780118__acb13734-92f3-45a7-a702-7214c62e6df9-16660897736fdd0373-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-default",
+        "text_align": "text-center"
+      }
+    },
+    "785d284d-556e-4ef0-bdb9-c32caf16c725": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Producten bekijken",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "posture-shirt",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fce41e98-ae27-42a6-9a42-d7348dd384c6",
+    "78e5b6f3-faa7-4060-8459-3c94a084db9a",
+    "4cf8fd56-7736-4fed-8556-11c29046f566",
+    "acb13734-92f3-45a7-a702-7214c62e6df9",
+    "785d284d-556e-4ef0-bdb9-c32caf16c725"
+  ]
+}
