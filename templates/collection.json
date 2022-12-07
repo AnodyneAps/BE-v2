@@ -2,7 +2,8 @@
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
-      "settings": {}
+      "settings": {
+      }
     },
     "collection-image": {
       "type": "collection-image",
@@ -15,6 +16,7 @@
     "main": {
       "type": "collection-template",
       "settings": {
+        "style__selector": "none",
         "collection_tags_enable": false,
         "collection_tags_count": false,
         "collection_multiple_tags_filtering_enable": false,
